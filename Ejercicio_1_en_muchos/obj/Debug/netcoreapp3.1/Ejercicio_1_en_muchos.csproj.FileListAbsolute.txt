@@ -1,0 +1,13 @@
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.exe
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.deps.json
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.runtimeconfig.json
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.runtimeconfig.dev.json
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.dll
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\bin\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.pdb
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.csprojAssemblyReference.cache
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.AssemblyInfoInputs.cache
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.AssemblyInfo.cs
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.dll
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.pdb
+C:\Users\geros\source\repos\Ejercicio_1_en_muchos\Ejercicio_1_en_muchos\obj\Debug\netcoreapp3.1\Ejercicio_1_en_muchos.genruntimeconfig.cache
